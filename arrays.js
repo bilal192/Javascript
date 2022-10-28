@@ -33,7 +33,7 @@
      let i = 0;
      while(i < a.length ){
          if (a[i] % 2 != 0 || a[i] == 0){
-             return false;;
+             return false;
          }
          i ++;
      }
